@@ -1,0 +1,13 @@
+header {
+    position: relative;
+    border-bottom: 3px solid #3C8DBC;
+    margin-bottom: 20px;
+}
+.header>h5{
+    margin-right: 60px;
+    letter-spacing: 0.5px;
+}
+.header>h5>span{
+    padding-left: 30px;
+    padding-right: 30px;
+}
